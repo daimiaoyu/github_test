@@ -1,4 +1,4 @@
 print("hello world")
 print("dmy")
 print("new function")
-print("mall")
+print("mall 100%")
